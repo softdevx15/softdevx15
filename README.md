@@ -93,15 +93,6 @@ TypeScript • tRPC • Zod • TailwindCSS • Next.js
 
 ---
 
-## 🌍 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/yuchengjin)  
-- 🧵 [Twitter / X](https://x.com/yuchengjin)  
-- 📫 [Email](mailto:yucheng.jin25@outlook.com)  
-- 💻 [Portfolio / GitHub Projects](https://github.com/YuchengJin)  
-
----
-
 ### ✨ “Building scalable systems that think, adapt, and deliver real impact.”  
 ⭐ Feel free to follow or collaborate — always open to discussing **AI-driven apps**, **modern web engineering**, and **Web3 innovation**.
 
